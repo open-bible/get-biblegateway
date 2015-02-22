@@ -1,0 +1,25 @@
+{
+  "name": "get-biblegateway",
+  "version": "0.0.1",
+  "description": "Web scraping from biblegateway",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/open-bible/get-biblegateway.git"
+  },
+  "keywords": [
+    "bible",
+    "biblegateway",
+    "scraping",
+    "open-bible"
+  ],
+  "author": "Paulo McNally <paulomcnally@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/open-bible/get-biblegateway/issues"
+  },
+  "homepage": "https://github.com/open-bible/get-biblegateway"
+}
